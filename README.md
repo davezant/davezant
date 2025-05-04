@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">A fullstack Developer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=davezant&label=Profile%20views&color=0e75b6&style=flat" alt="davezant" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davezant" alt="davezant" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://deiv.site](https://deiv.site)
 
 - 📝 I regularly write articles on [https://medium.com/@dsndeividdsn1](https://medium.com/@dsndeividdsn1)
@@ -27,7 +23,5 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/ ko-fi.com/davezant"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt=" ko-fi.com/davezant" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davezant&show_icons=true&locale=en&layout=compact" alt="davezant" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davezant&show_icons=true&locale=en" alt="davezant" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=davezant&show_icons=true&locale=en&layout=compact" alt="davezant" /></p>
 
