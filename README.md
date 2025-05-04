@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">A Fullstack Developer from Brazil</h3>
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-<img src="https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white"/>
-<img src=""
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/> <img src="https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white"/>
+
 - Here are my projects! [https://deiv.site](deiv.site)
 
 - Articles [https://medium.com/@dsndeividdsn1](medium.com/@dsndeividdsn1)
