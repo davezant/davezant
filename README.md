@@ -21,4 +21,4 @@
 <br>
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=davezant&show_icons=true&locale=en&layout=compact" alt="davezant" /></p>
 
-<p align="right"><a href="https://ko-fi.com/ ko-fi.com/davezant"> <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt=" ko-fi.com/davezant" /></a></p><br><br>
+<p align="right"><a href="https://ko-fi.com/davezant"> <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt=" ko-fi.com/davezant" /></a></p><br><br>
