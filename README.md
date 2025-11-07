@@ -18,9 +18,9 @@
 - 🇧🇷 Brazilian Fullstack Developer
 - 🛠 Fanatic about Go, Flutter, Python, and TypeScript
 - 🧩 Creator of tools, games, distributed systems, and automations
-- ✍️ Artigos no Medium: **https://medium.com/@dsndeividdsn1**
-- 🌐 Portfólio & projetos: **https://deiv.site**
-- 📬 Contato: **dsndeividdsn1@gmail.com**
+- ✍️ Medium **https://medium.com/@dsndeividdsn1**
+- 🌐 Portfolio: **https://deiv.site**
+- 📬 Contact: **dsndeividdsn1@gmail.com**
 
 ---
 
