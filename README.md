@@ -6,8 +6,12 @@
 </p>
 
 ---
-<h1 align="center">"We are what we overcome"</h1>
 
+
+<h3 align="center" style="text-decoration: none;">"We are what we overcome"</h3>
+
+
+---
 
 
 ### 🌎 About Me
