@@ -6,7 +6,8 @@
 </p>
 
 ---
-
+<h1 align="center">"We are what we overcome"</h1>
+---
 ### 🌎 About Me
 - 🇧🇷 Brazilian Fullstack Developer
 - 🛠 Fanatic about Go, Flutter, Python, and TypeScript
