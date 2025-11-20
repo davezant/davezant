@@ -19,7 +19,7 @@
 - 🛠 Fanatic about Go, Flutter, Python, and TypeScript
 - 🧩 Creator of tools, games, distributed systems, and automations
 - ✍️ Medium **https://medium.com/@dsndeividdsn1**
-- 🌐 Portfolio: **https://deiv.site**
+- 🌐 Portfolio: **https://davezant.site**
 - 📬 Contact: **dsndeividdsn1@gmail.com**
 
 ---
