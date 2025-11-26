@@ -47,12 +47,3 @@
 </p>
 
 ---
-
-### ☕ Want to support my work?
-<p align="center">
-<a href="https://ko-fi.com/davezant">
-<img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="45" width="200" alt="Buy me a coffee" />
-</a>
-</p>
-
----
