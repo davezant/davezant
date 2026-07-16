@@ -23,8 +23,4 @@ deiv@localhost ~ $ neofetch
 #       :dddddddddddddddddddddddddd:         
 #        .hddddddddddddddddddddddh.          
 #                                            
-#                                            
-# 
-#                                            
-#                                            
-#                                            
+                                         
